@@ -1,9 +1,10 @@
-### Olá Tudo bem ? Me chamo Yuri, é um prazer 👋
+### Hi how are you ? My name is Yuri great pleasure !! 👋
 
-- 🔭 Atualmente eu estou estagiando no Instituto Centec.
-- 🌱 Estou estudando Java Spring.
-- 😎 Tenho formação no curso tecnico de Análise e desenvolvimento de sistemas pelo Senai e fazendo faculdade no curso de mesmo nome.
-- 📫 Contate-me no email: yurimenezes044@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Actually i am interning is Institute Centec
+- 🌱 I am studying Spring Boot 
+- 😎 I have training in the technical course of System Analisys and development at Senai
+- 📫 I am developer junior beck-end, my main language is Java
+- 📫 I have knowledge of MySQL, i know basics of Python and PHP
+
 
 
