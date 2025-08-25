@@ -1,4 +1,4 @@
-### Hi how are you ? My name is Yuri great pleasure !! 👋
+### Olá Tudo bem ? Eu me chamo Yuri !! 👋
 
 - 🔭 Atualmente estou estagiando no Instituto Centec 
 - 😎 Tenho formação técnica em Análise e Desenvolvimento de Sistemas
